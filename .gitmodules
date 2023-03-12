@@ -1,0 +1,3 @@
+[submodule "RentMyGadget"]
+	path = RentMyGadget
+	url = https://github.com/cdacgroup02/RentMyGadget.git
